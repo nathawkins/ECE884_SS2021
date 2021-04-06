@@ -127,6 +127,6 @@ if __name__ == "__main__":
         for k in results[feature_set+"_"+model_name_].keys():
             results[feature_set+"_"+model_name_][k] /= 10            
 
-    print(results)
-    json.dump(results, open(f"../results/{args.i}.json", "w"))
+        print(results)
+        json.dump(results, open(f"../results/concat_{args.i}.json", "w"))
     

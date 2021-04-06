@@ -132,9 +132,9 @@ if __name__ == "__main__":
         for k in results[feature_set+"_"+model_name_].keys():
             results[feature_set+"_"+model_name_][k] /= 10            
 
-    print(results)
-    if args.title:
-        json.dump(results, open(f"../results/title_{args.i}.json", "w"))
-    if args.body:
-        json.dump(results, open(f"../results/body_{args.i}.json", "w"))
+        print(results)
+        if args.title:
+            json.dump(results, open(f"../results/title_{args.i}.json", "w"))
+        if args.body:
+            json.dump(results, open(f"../results/body_{args.i}.json", "w"))
     
