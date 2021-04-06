@@ -1,0 +1,133 @@
+Error: Can't open display: (null)
+fasttext
+L1 Log Reg
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+L2 Log Reg
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+KNN-3
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+KNN-5
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+KNN-10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Linear SVM
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+RBF SVM
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+MLP
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Naive Bayes
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+QDA
+1
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:715: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+2
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:715: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+3
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:715: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+4
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:715: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+5
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:715: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+6
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:715: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+7
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:715: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+8
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:715: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+9
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:715: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+10
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:715: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+{'fasttext_L1 Log Reg': {'accuracy': 0.8881761070357502, 'auprc': 0.8373939316807343, 'precision': 0.8823144241959604, 'recall': 0.8872300590871909, 'f1': 0.8847537165307944, 'auroc': 0.8881456372531925}, 'fasttext_L2 Log Reg': {'accuracy': 0.888944136803379, 'auprc': 0.8379779302177692, 'precision': 0.8819619607485784, 'recall': 0.8895009123002409, 'f1': 0.8857015180596841, 'auroc': 0.8889569206186753}, 'fasttext_KNN-3': {'accuracy': 0.8484389888241761, 'auprc': 0.8153079139095942, 'precision': 0.9306027141875383, 'recall': 0.7419929819777128, 'f1': 0.8256192292955757, 'auroc': 0.8451191926576014}, 'fasttext_KNN-5': {'accuracy': 0.8449375423027021, 'auprc': 0.8145675228383199, 'precision': 0.9388114347191117, 'recall': 0.7268947685411191, 'f1': 0.8193352851445687, 'auroc': 0.8412652909077314}, 'fasttext_KNN-10': {'accuracy': 0.8136719730454913, 'auprc': 0.7884872545538107, 'precision': 0.9569691446256489, 'recall': 0.6438303799063373, 'f1': 0.7697215214753121, 'auroc': 0.8083807991290086}, 'fasttext_Linear SVM': {'accuracy': 0.8884020089515605, 'auprc': 0.8370169863360838, 'precision': 0.8807059988784817, 'recall': 0.8898901490565458, 'f1': 0.8852584671720025, 'auroc': 0.8884512306751878}, 'fasttext_RBF SVM': {'accuracy': 0.9169791091126209, 'auprc': 0.8745329231020035, 'precision': 0.9071601856287017, 'recall': 0.9229215188172823, 'f1': 0.9149402957178866, 'auroc': 0.9171957535542813}, 'fasttext_MLP': {'accuracy': 0.9323407507090726, 'auprc': 0.9029951913698884, 'precision': 0.9401947936385116, 'recall': 0.9185020216339517, 'f1': 0.9292098920930236, 'auroc': 0.9319156331662715}, 'fasttext_Naive Bayes': {'accuracy': 0.8256674091765899, 'auprc': 0.7592220487812196, 'precision': 0.8194365545250151, 'recall': 0.8205312538086937, 'f1': 0.8199371167862244, 'auroc': 0.825534572756643}, 'fasttext_QDA': {'accuracy': 0.6857869402429388, 'auprc': 0.6627309050096482, 'precision': 0.9871272933548662, 'recall': 0.35551892288102865, 'f1': 0.5214046526910505, 'auroc': 0.6755297168260878}}

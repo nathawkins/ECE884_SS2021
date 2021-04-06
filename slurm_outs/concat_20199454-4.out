@@ -1,0 +1,222 @@
+Error: Can't open display: localhost:19.0
+flair-multi-forward
+L1 Log Reg
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+{'flair-multi-forward_L1 Log Reg': {'accuracy': 0.8779199569335399, 'auprc': 0.8224672405333004, 'precision': 0.8676861164898579, 'recall': 0.8821733395668943, 'f1': 0.874847898345062, 'auroc': 0.8780520579451851}}
+L2 Log Reg
+1
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+2
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+3
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+4
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+5
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+6
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+7
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+8
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+9
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+10
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+{'flair-multi-forward_L1 Log Reg': {'accuracy': 0.8779199569335399, 'auprc': 0.8224672405333004, 'precision': 0.8676861164898579, 'recall': 0.8821733395668943, 'f1': 0.874847898345062, 'auroc': 0.8780520579451851}, 'flair-multi-forward_L2 Log Reg': {'accuracy': 0.8741700657684213, 'auprc': 0.8180304926901416, 'precision': 0.8649890589508541, 'recall': 0.8767265593321687, 'f1': 0.87078775411006, 'auroc': 0.8742785808534462}}
+KNN-3
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+{'flair-multi-forward_L1 Log Reg': {'accuracy': 0.8779199569335399, 'auprc': 0.8224672405333004, 'precision': 0.8676861164898579, 'recall': 0.8821733395668943, 'f1': 0.874847898345062, 'auroc': 0.8780520579451851}, 'flair-multi-forward_L2 Log Reg': {'accuracy': 0.8741700657684213, 'auprc': 0.8180304926901416, 'precision': 0.8649890589508541, 'recall': 0.8767265593321687, 'f1': 0.87078775411006, 'auroc': 0.8742785808534462}, 'flair-multi-forward_KNN-3': {'accuracy': 0.7336109418124067, 'auprc': 0.6912867147411782, 'precision': 0.8856679699386432, 'recall': 0.5161195208662624, 'f1': 0.6521138487154816, 'auroc': 0.7268184094533718}}
+KNN-5
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+{'flair-multi-forward_L1 Log Reg': {'accuracy': 0.8779199569335399, 'auprc': 0.8224672405333004, 'precision': 0.8676861164898579, 'recall': 0.8821733395668943, 'f1': 0.874847898345062, 'auroc': 0.8780520579451851}, 'flair-multi-forward_L2 Log Reg': {'accuracy': 0.8741700657684213, 'auprc': 0.8180304926901416, 'precision': 0.8649890589508541, 'recall': 0.8767265593321687, 'f1': 0.87078775411006, 'auroc': 0.8742785808534462}, 'flair-multi-forward_KNN-3': {'accuracy': 0.7336109418124067, 'auprc': 0.6912867147411782, 'precision': 0.8856679699386432, 'recall': 0.5161195208662624, 'f1': 0.6521138487154816, 'auroc': 0.7268184094533718}, 'flair-multi-forward_KNN-5': {'accuracy': 0.7236934225760647, 'auprc': 0.6842113674202138, 'precision': 0.8979858341899254, 'recall': 0.48385536562723264, 'f1': 0.6288132712348021, 'auroc': 0.7161843859765058}}
+KNN-10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+{'flair-multi-forward_L1 Log Reg': {'accuracy': 0.8779199569335399, 'auprc': 0.8224672405333004, 'precision': 0.8676861164898579, 'recall': 0.8821733395668943, 'f1': 0.874847898345062, 'auroc': 0.8780520579451851}, 'flair-multi-forward_L2 Log Reg': {'accuracy': 0.8741700657684213, 'auprc': 0.8180304926901416, 'precision': 0.8649890589508541, 'recall': 0.8767265593321687, 'f1': 0.87078775411006, 'auroc': 0.8742785808534462}, 'flair-multi-forward_KNN-3': {'accuracy': 0.7336109418124067, 'auprc': 0.6912867147411782, 'precision': 0.8856679699386432, 'recall': 0.5161195208662624, 'f1': 0.6521138487154816, 'auroc': 0.7268184094533718}, 'flair-multi-forward_KNN-5': {'accuracy': 0.7236934225760647, 'auprc': 0.6842113674202138, 'precision': 0.8979858341899254, 'recall': 0.48385536562723264, 'f1': 0.6288132712348021, 'auroc': 0.7161843859765058}, 'flair-multi-forward_KNN-10': {'accuracy': 0.6856506172175404, 'auprc': 0.6504367734771258, 'precision': 0.9155744229820041, 'recall': 0.3858395515061034, 'f1': 0.5427746384935367, 'auroc': 0.676287550011693}}
+Linear SVM
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+{'flair-multi-forward_L1 Log Reg': {'accuracy': 0.8779199569335399, 'auprc': 0.8224672405333004, 'precision': 0.8676861164898579, 'recall': 0.8821733395668943, 'f1': 0.874847898345062, 'auroc': 0.8780520579451851}, 'flair-multi-forward_L2 Log Reg': {'accuracy': 0.8741700657684213, 'auprc': 0.8180304926901416, 'precision': 0.8649890589508541, 'recall': 0.8767265593321687, 'f1': 0.87078775411006, 'auroc': 0.8742785808534462}, 'flair-multi-forward_KNN-3': {'accuracy': 0.7336109418124067, 'auprc': 0.6912867147411782, 'precision': 0.8856679699386432, 'recall': 0.5161195208662624, 'f1': 0.6521138487154816, 'auroc': 0.7268184094533718}, 'flair-multi-forward_KNN-5': {'accuracy': 0.7236934225760647, 'auprc': 0.6842113674202138, 'precision': 0.8979858341899254, 'recall': 0.48385536562723264, 'f1': 0.6288132712348021, 'auroc': 0.7161843859765058}, 'flair-multi-forward_KNN-10': {'accuracy': 0.6856506172175404, 'auprc': 0.6504367734771258, 'precision': 0.9155744229820041, 'recall': 0.3858395515061034, 'f1': 0.5427746384935367, 'auroc': 0.676287550011693}, 'flair-multi-forward_Linear SVM': {'accuracy': 0.8844938389505062, 'auprc': 0.8294179571017029, 'precision': 0.8699332765781109, 'recall': 0.8950511334435862, 'f1': 0.8822988183888109, 'auroc': 0.8848226540968452}}
+RBF SVM
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+{'flair-multi-forward_L1 Log Reg': {'accuracy': 0.8779199569335399, 'auprc': 0.8224672405333004, 'precision': 0.8676861164898579, 'recall': 0.8821733395668943, 'f1': 0.874847898345062, 'auroc': 0.8780520579451851}, 'flair-multi-forward_L2 Log Reg': {'accuracy': 0.8741700657684213, 'auprc': 0.8180304926901416, 'precision': 0.8649890589508541, 'recall': 0.8767265593321687, 'f1': 0.87078775411006, 'auroc': 0.8742785808534462}, 'flair-multi-forward_KNN-3': {'accuracy': 0.7336109418124067, 'auprc': 0.6912867147411782, 'precision': 0.8856679699386432, 'recall': 0.5161195208662624, 'f1': 0.6521138487154816, 'auroc': 0.7268184094533718}, 'flair-multi-forward_KNN-5': {'accuracy': 0.7236934225760647, 'auprc': 0.6842113674202138, 'precision': 0.8979858341899254, 'recall': 0.48385536562723264, 'f1': 0.6288132712348021, 'auroc': 0.7161843859765058}, 'flair-multi-forward_KNN-10': {'accuracy': 0.6856506172175404, 'auprc': 0.6504367734771258, 'precision': 0.9155744229820041, 'recall': 0.3858395515061034, 'f1': 0.5427746384935367, 'auroc': 0.676287550011693}, 'flair-multi-forward_Linear SVM': {'accuracy': 0.8844938389505062, 'auprc': 0.8294179571017029, 'precision': 0.8699332765781109, 'recall': 0.8950511334435862, 'f1': 0.8822988183888109, 'auroc': 0.8848226540968452}, 'flair-multi-forward_RBF SVM': {'accuracy': 0.873334132221341, 'auprc': 0.8132265778220269, 'precision': 0.8533388416941247, 'recall': 0.8913890238289216, 'f1': 0.8719295024731559, 'auroc': 0.8739083150945934}}
+MLP
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+{'flair-multi-forward_L1 Log Reg': {'accuracy': 0.8779199569335399, 'auprc': 0.8224672405333004, 'precision': 0.8676861164898579, 'recall': 0.8821733395668943, 'f1': 0.874847898345062, 'auroc': 0.8780520579451851}, 'flair-multi-forward_L2 Log Reg': {'accuracy': 0.8741700657684213, 'auprc': 0.8180304926901416, 'precision': 0.8649890589508541, 'recall': 0.8767265593321687, 'f1': 0.87078775411006, 'auroc': 0.8742785808534462}, 'flair-multi-forward_KNN-3': {'accuracy': 0.7336109418124067, 'auprc': 0.6912867147411782, 'precision': 0.8856679699386432, 'recall': 0.5161195208662624, 'f1': 0.6521138487154816, 'auroc': 0.7268184094533718}, 'flair-multi-forward_KNN-5': {'accuracy': 0.7236934225760647, 'auprc': 0.6842113674202138, 'precision': 0.8979858341899254, 'recall': 0.48385536562723264, 'f1': 0.6288132712348021, 'auroc': 0.7161843859765058}, 'flair-multi-forward_KNN-10': {'accuracy': 0.6856506172175404, 'auprc': 0.6504367734771258, 'precision': 0.9155744229820041, 'recall': 0.3858395515061034, 'f1': 0.5427746384935367, 'auroc': 0.676287550011693}, 'flair-multi-forward_Linear SVM': {'accuracy': 0.8844938389505062, 'auprc': 0.8294179571017029, 'precision': 0.8699332765781109, 'recall': 0.8950511334435862, 'f1': 0.8822988183888109, 'auroc': 0.8848226540968452}, 'flair-multi-forward_RBF SVM': {'accuracy': 0.873334132221341, 'auprc': 0.8132265778220269, 'precision': 0.8533388416941247, 'recall': 0.8913890238289216, 'f1': 0.8719295024731559, 'auroc': 0.8739083150945934}, 'flair-multi-forward_MLP': {'accuracy': 0.9205486890768363, 'auprc': 0.8836297321685365, 'precision': 0.9212116989024945, 'recall': 0.9140723762246072, 'f1': 0.9175601821960354, 'auroc': 0.9203851672520154}}
+Naive Bayes
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+{'flair-multi-forward_L1 Log Reg': {'accuracy': 0.8779199569335399, 'auprc': 0.8224672405333004, 'precision': 0.8676861164898579, 'recall': 0.8821733395668943, 'f1': 0.874847898345062, 'auroc': 0.8780520579451851}, 'flair-multi-forward_L2 Log Reg': {'accuracy': 0.8741700657684213, 'auprc': 0.8180304926901416, 'precision': 0.8649890589508541, 'recall': 0.8767265593321687, 'f1': 0.87078775411006, 'auroc': 0.8742785808534462}, 'flair-multi-forward_KNN-3': {'accuracy': 0.7336109418124067, 'auprc': 0.6912867147411782, 'precision': 0.8856679699386432, 'recall': 0.5161195208662624, 'f1': 0.6521138487154816, 'auroc': 0.7268184094533718}, 'flair-multi-forward_KNN-5': {'accuracy': 0.7236934225760647, 'auprc': 0.6842113674202138, 'precision': 0.8979858341899254, 'recall': 0.48385536562723264, 'f1': 0.6288132712348021, 'auroc': 0.7161843859765058}, 'flair-multi-forward_KNN-10': {'accuracy': 0.6856506172175404, 'auprc': 0.6504367734771258, 'precision': 0.9155744229820041, 'recall': 0.3858395515061034, 'f1': 0.5427746384935367, 'auroc': 0.676287550011693}, 'flair-multi-forward_Linear SVM': {'accuracy': 0.8844938389505062, 'auprc': 0.8294179571017029, 'precision': 0.8699332765781109, 'recall': 0.8950511334435862, 'f1': 0.8822988183888109, 'auroc': 0.8848226540968452}, 'flair-multi-forward_RBF SVM': {'accuracy': 0.873334132221341, 'auprc': 0.8132265778220269, 'precision': 0.8533388416941247, 'recall': 0.8913890238289216, 'f1': 0.8719295024731559, 'auroc': 0.8739083150945934}, 'flair-multi-forward_MLP': {'accuracy': 0.9205486890768363, 'auprc': 0.8836297321685365, 'precision': 0.9212116989024945, 'recall': 0.9140723762246072, 'f1': 0.9175601821960354, 'auroc': 0.9203851672520154}, 'flair-multi-forward_Naive Bayes': {'accuracy': 0.7701170649929758, 'auprc': 0.7022146249348884, 'precision': 0.7882026525334107, 'recall': 0.7174859532400539, 'f1': 0.7511552004161629, 'auroc': 0.7684176963474856}}
+QDA
+1
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:715: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+2
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:715: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+3
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:715: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+4
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:715: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+5
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:715: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+6
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:715: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+7
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:715: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+8
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:715: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+9
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:715: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+10
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:715: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+{'flair-multi-forward_L1 Log Reg': {'accuracy': 0.8779199569335399, 'auprc': 0.8224672405333004, 'precision': 0.8676861164898579, 'recall': 0.8821733395668943, 'f1': 0.874847898345062, 'auroc': 0.8780520579451851}, 'flair-multi-forward_L2 Log Reg': {'accuracy': 0.8741700657684213, 'auprc': 0.8180304926901416, 'precision': 0.8649890589508541, 'recall': 0.8767265593321687, 'f1': 0.87078775411006, 'auroc': 0.8742785808534462}, 'flair-multi-forward_KNN-3': {'accuracy': 0.7336109418124067, 'auprc': 0.6912867147411782, 'precision': 0.8856679699386432, 'recall': 0.5161195208662624, 'f1': 0.6521138487154816, 'auroc': 0.7268184094533718}, 'flair-multi-forward_KNN-5': {'accuracy': 0.7236934225760647, 'auprc': 0.6842113674202138, 'precision': 0.8979858341899254, 'recall': 0.48385536562723264, 'f1': 0.6288132712348021, 'auroc': 0.7161843859765058}, 'flair-multi-forward_KNN-10': {'accuracy': 0.6856506172175404, 'auprc': 0.6504367734771258, 'precision': 0.9155744229820041, 'recall': 0.3858395515061034, 'f1': 0.5427746384935367, 'auroc': 0.676287550011693}, 'flair-multi-forward_Linear SVM': {'accuracy': 0.8844938389505062, 'auprc': 0.8294179571017029, 'precision': 0.8699332765781109, 'recall': 0.8950511334435862, 'f1': 0.8822988183888109, 'auroc': 0.8848226540968452}, 'flair-multi-forward_RBF SVM': {'accuracy': 0.873334132221341, 'auprc': 0.8132265778220269, 'precision': 0.8533388416941247, 'recall': 0.8913890238289216, 'f1': 0.8719295024731559, 'auroc': 0.8739083150945934}, 'flair-multi-forward_MLP': {'accuracy': 0.9205486890768363, 'auprc': 0.8836297321685365, 'precision': 0.9212116989024945, 'recall': 0.9140723762246072, 'f1': 0.9175601821960354, 'auroc': 0.9203851672520154}, 'flair-multi-forward_Naive Bayes': {'accuracy': 0.7701170649929758, 'auprc': 0.7022146249348884, 'precision': 0.7882026525334107, 'recall': 0.7174859532400539, 'f1': 0.7511552004161629, 'auroc': 0.7684176963474856}, 'flair-multi-forward_QDA': {'accuracy': 0.56282537801812, 'auprc': 0.519202697847635, 'precision': 0.552276362422402, 'recall': 0.5270990253622237, 'f1': 0.5371781350521971, 'auroc': 0.5618154742497161}}

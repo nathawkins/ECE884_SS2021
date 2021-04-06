@@ -1,0 +1,213 @@
+Error: Can't open display: (null)
+flair-news-backward
+L1 Log Reg
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+L2 Log Reg
+1
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+2
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+3
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+4
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+5
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+6
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+7
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+8
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+9
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+10
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+KNN-3
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+KNN-5
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+KNN-10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Linear SVM
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+RBF SVM
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+MLP
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Naive Bayes
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+QDA
+1
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:715: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+2
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:715: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+3
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:715: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+4
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:715: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+5
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:715: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+6
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:715: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+7
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:715: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+8
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:715: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+9
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:715: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+10
+/mnt/home/hawki235/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:715: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+{'flair-news-backward_L1 Log Reg': {'accuracy': 0.882098920368184, 'auprc': 0.828462508219862, 'precision': 0.8735560676685552, 'recall': 0.8842350641709297, 'f1': 0.8788542199027571, 'auroc': 0.8821530779252621}, 'flair-news-backward_L2 Log Reg': {'accuracy': 0.8750506407554758, 'auprc': 0.8190959104857415, 'precision': 0.865748577108986, 'recall': 0.8777848438608498, 'f1': 0.8717135339130563, 'auroc': 0.8751182431646344}, 'flair-news-backward_KNN-3': {'accuracy': 0.8097636397283197, 'auprc': 0.7681189272383385, 'precision': 0.9003694813676448, 'recall': 0.6823353136557484, 'f1': 0.7762743027828314, 'auroc': 0.8058309823982439}, 'flair-news-backward_KNN-5': {'accuracy': 0.8084531860984097, 'auprc': 0.7688261731327499, 'precision': 0.9071027581742612, 'recall': 0.6730610872109405, 'f1': 0.7726739396538678, 'auroc': 0.8042785720342831}, 'flair-news-backward_KNN-10': {'accuracy': 0.7786787950659343, 'auprc': 0.7439867982825987, 'precision': 0.9235148279503915, 'recall': 0.5915559571294937, 'f1': 0.7211078746683316, 'auroc': 0.7728608238039155}, 'flair-news-backward_Linear SVM': {'accuracy': 0.8815567669982223, 'auprc': 0.8263959896877873, 'precision': 0.869170139572533, 'recall': 0.888949946191077, 'f1': 0.8789330344372427, 'auroc': 0.8817754443821668}, 'flair-news-backward_RBF SVM': {'accuracy': 0.8890568708570654, 'auprc': 0.8351619747752892, 'precision': 0.8738657561957801, 'recall': 0.9006700959423938, 'f1': 0.8870457181244431, 'auroc': 0.8894374925871485}, 'flair-news-backward_MLP': {'accuracy': 0.9219717185479441, 'auprc': 0.8885940206514074, 'precision': 0.9303515018339248, 'recall': 0.906612561714678, 'f1': 0.9182468830778318, 'auroc': 0.9214626860858702}, 'flair-news-backward_Naive Bayes': {'accuracy': 0.7373827785808055, 'auprc': 0.6754044430532585, 'precision': 0.7943502446685188, 'recall': 0.6168411935319965, 'f1': 0.6943881395355188, 'auroc': 0.7336202349557347}, 'flair-news-backward_QDA': {'accuracy': 0.8878595493638786, 'auprc': 0.8418867212192044, 'precision': 0.8954644408298693, 'recall': 0.8697594116925691, 'f1': 0.8824002082791583, 'auroc': 0.8873210499038535}}

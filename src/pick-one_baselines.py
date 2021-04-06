@@ -53,13 +53,18 @@ def get_embedding_type_dict(title_embedding_files, bodies_embedding_files):
 def load_embedding(fname):
     return np.load(fname)
 
-def create_concatenated_features(title_X_mat, body_X_mat):
-    return np.concatenate((title_X_mat, body_X_mat), axis = 1)
+def create_concatenated_features(title_X_mat, body_X_mat, title = False, body = False):
+    if title:
+        return title_X_mat
+    if body:
+        return body_X_mat
 
 if __name__ == "__main__":
     ## Command line input for job index
     parser = ArgumentParser()
     parser.add_argument("-i", type = int, help = "Job array index")
+    parser.add_argument("-title", action = "store_true", default = False)
+    parser.add_argument("-body", action = "store_true", default = False)
     args = parser.parse_args()
 
     ## Define classifiers and name
@@ -95,7 +100,7 @@ if __name__ == "__main__":
     print(feature_set)
     title_fname = embedding_type_fnames[feature_set][0]
     body_fname  = embedding_type_fnames[feature_set][1]
-    X = create_concatenated_features(load_embedding(title_fname), load_embedding(body_fname))
+    X = create_concatenated_features(load_embedding(title_fname), load_embedding(body_fname), title = args.title, body = args.body)
     
     ## Loop over models
     for model_, model_name_ in zip(classifiers, names):
@@ -128,5 +133,8 @@ if __name__ == "__main__":
             results[feature_set+"_"+model_name_][k] /= 10            
 
         print(results)
-        json.dump(results, open(f"../results/concat_{args.i}.json", "w"))
+        if args.title:
+            json.dump(results, open(f"../results/title_{args.i}.json", "w"))
+        if args.body:
+            json.dump(results, open(f"../results/body_{args.i}.json", "w"))
     

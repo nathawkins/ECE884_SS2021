@@ -54,7 +54,7 @@ def load_embedding(fname):
     return np.load(fname)
 
 def create_concatenated_features(title_X_mat, body_X_mat):
-    return np.concatenate((title_X_mat, body_X_mat), axis = 1)
+    return 1/2*(title_X_mat +  body_X_mat)
 
 if __name__ == "__main__":
     ## Command line input for job index
@@ -128,5 +128,5 @@ if __name__ == "__main__":
             results[feature_set+"_"+model_name_][k] /= 10            
 
         print(results)
-        json.dump(results, open(f"../results/concat_{args.i}.json", "w"))
+        json.dump(results, open(f"../results/avg_{args.i}.json", "w"))
     
