@@ -12,7 +12,7 @@ Nathaniel Hawkins: hawki235@msu.edu
 
 ## Abstract 
 
-
+Fake news detection is a very prominent and essential task in the field of journalism. The increasingly rapid pace of spreading fake news is considered a problem in conjunction with the increasing number of people who are relying upon social media and other internet sources to stay informed on current events. Such widespread concern has drawn the attention of research communities to mitigate the negative impact and influence of fake news on public decisions. Consequently, the current research strives to delineate fake news and streamline the process of detecting fake news using text-based deep learning approaches. Using a publicaly available dataset from Kaggle, we have assembled a collection of different models to detect fake news based on the title and text of a news articles. Our proposed toolset consists of a comprehensive set of baseline models from the scikit-learn python package, Long Short-Term Memory network (LSTM) and Bidirectional LSTM (Bi-LSTM) models, and two Transformer-based, fine-tuned models: BERT and GPT-2. Our experiments achieved almost 100% accuracy on our chosen dataset which is on par with the state-of-the-art results for similar tasks.
 
 ## Dependencies
 
@@ -53,7 +53,17 @@ The execution of the above code in the order outlined will fully reproduce the r
 
 ## Summary of Main Results
 
+*: Baseline Model
 
+|              Model             | Accuracy |
+|:------------------------------:|:--------:|
+|        BERT (Fine-Tuned)       |    1.0   |
+|       GPT-2 (Fine-Tuned)       |    1.0   |
+|              LSTM              |   0.989  |
+|             Bi-LSTM            |   0.988  |
+|     *MLP w/ BERT Embeddings    |   0.951  |
+|   *RBF SVM w/ ELMo Embeddings  |   0.945  |
+| *L1 Log Reg w/ ELMo Embeddings |   0.943  |
 
 ## Author Contributions
 
