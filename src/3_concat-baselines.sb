@@ -3,9 +3,9 @@
 #SBATCH -c 1
 #SBATCH --mem=24GB
 #SBATCH --time=96:00:00
-#SBATCH --array=1,3,4
+#SBATCH --array=0-9
 #SBATCH --output=../concat_%A-%a.out
 
 cd ${SLURM_SUBMIT_DIR}
 
-python -u concat_baselines.py -i ${SLURM_ARRAY_TASK_ID}
+python -u 3_concat-baselines.py -i ${SLURM_ARRAY_TASK_ID}

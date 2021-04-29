@@ -3,9 +3,9 @@
 #SBATCH -c 1
 #SBATCH --mem=24GB
 #SBATCH --time=96:00:00
-#SBATCH --array=3
+#SBATCH --array=0-9
 #SBATCH --output=../array_%A-%a.out
 
 cd ${SLURM_SUBMIT_DIR}
 
-python -u pick-one_baselines.py -i ${SLURM_ARRAY_TASK_ID} -body
+python -u 3_pick-one-baselines.py -i ${SLURM_ARRAY_TASK_ID} -body

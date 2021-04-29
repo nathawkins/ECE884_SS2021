@@ -1,0 +1,11 @@
+#!/bin/bash --login
+#SBATCH -n 1
+#SBATCH -c 1
+#SBATCH --mem=24GB
+#SBATCH --time=96:00:00
+#SBATCH --array=0-9
+#SBATCH --output=../slurm_outs/avg_%A-%a.out
+
+cd ${SLURM_SUBMIT_DIR}
+
+python -u 3_avg-baselines.py -i ${SLURM_ARRAY_TASK_ID}
