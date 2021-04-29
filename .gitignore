@@ -1,1 +1,2 @@
-data/*
+data/*.npy
+data/*.csv
