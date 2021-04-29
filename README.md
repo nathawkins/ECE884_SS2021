@@ -8,7 +8,7 @@ Namratha Shah: shahnamr@msu.edu
 Sneha Mhaske: mhaskesn@msu.edu    
 Nathaniel Hawkins: hawki235@msu.edu  
 
-**Corresponding Authors**: Inquiries can be directed at any of the three authors listed above.
+**Corresponding Authors**: Inquiries can be directed to any of the three authors listed above.
 
 ## Project Overview
 
