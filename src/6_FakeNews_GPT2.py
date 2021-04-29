@@ -53,7 +53,6 @@ else:
 
 # Load the dataset into a pandas dataframe.
 df = pd.read_csv('/tmp/local/'+os.environ.get('SLURM_JOBID')+'/preprocessed_text_w_labels.csv')
-#df = pd.read_csv('/mnt/gs18/scratch/users/mhaskesn/fakenews/preprocessed_text_w_labels.csv')
 
 
 # Report the number of sentences.
